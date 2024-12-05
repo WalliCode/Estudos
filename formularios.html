@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formularios</title>
+</head>
+<body>
+    
+    <h2>LOGIN</h2>
+
+    <form action="">
+
+        Login:<br> <!--fomulario de login basico com o comando input-->
+        <input type="text" name="login"><br> <!--Name se utiliza os dados para passar para uma proxima tela-->
+
+        Senha:<br>
+        <input type="password" name="senha"> <br> <!--mudar de text para passaword para senhas-->
+
+        <input type="submit" value="logar"> <!--Value define o texto do botão--> <!--Submit para enviar informações-->
+
+    </form>
+
+    <form>
+        <h2>Cadastre-se</h2>
+
+        Login:<br>
+        <input type="text" name="login"><br><br>
+
+        Sexo:<br>
+        <input type="radio" name="sexo" value="M"> Masculino<br> <!--radio, aquelas bolinhas para colocar varias opçoes-->
+        <input type="radio" name="sexo" value="F"> Feminino<br><br> <!--Para não ficar as duas bolinhas marcadas posso definir o name de ambos ou de todos para o mesmo nome nesse caso "sexo"-->
+
+        Interesses<br>
+
+        <input type="checkbox" name=""> Futebol<br> <!--A mesma coisa que as bolinhas só que agora com o checkbox permite ao usuario escolher mais de uma opção-->
+        <input type="checkbox" name=""> Basquete<br>
+        <input type="checkbox" name=""> F1<br>
+
+        Estado<br>
+
+        <select name="estado"> <!--Para fazer uma seleção como se fosse uma lista, do mesmo jeito como ecolhemos estados nos sites-->
+            <option value="sp">SP</option> <!--Com uma linguagem de programação eu ´poderia recuperar o estado do usuario OBS: vou aprender mais pra frente-->
+            <option>MG</option>
+            <option>RJ</option>
+            <option>MT</option>
+        </select><br><br>
+
+        Observações:<br>
+
+        <textarea></textarea><br> <!--Para fazer uma caixa de texto-->
+        <input type="submit" value="Cadastrar" name=""> <!--lembrando que value da nome ao botão-->
+
+    </form>
+
+
+</body>
+</html>
