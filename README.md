@@ -1,8 +1,4 @@
 
-Claro! Aqui está o texto reescrito de forma mais objetiva, sem mencionar diretamente você:
-
-Arquivo de Estudos: HTML - Fundamentos Básicos
-
 Este arquivo de estudos reúne conceitos essenciais de HTML, abordando alguns dos elementos fundamentais para a criação de páginas web. O conteúdo é focado em tópicos-chave, como:
 
 Caracteres Especiais: A utilização de caracteres especiais no HTML é essencial para garantir que símbolos e acentuações sejam exibidos corretamente em diferentes navegadores e plataformas. Isso inclui o uso de entidades HTML para representar caracteres que podem ter significados especiais, como &amp; para o símbolo & ou &lt; para o símbolo <.
