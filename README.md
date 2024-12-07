@@ -1,6 +1,32 @@
-# Estudos HTML
-Este arquivo de estudos aborda conceitos fundamentais do HTML, essenciais para a criação de páginas web. Nele, são explorados elementos como caracteres especiais, tabelas, imagens, links e formulários, que são a base para a construção de sites interativos e bem estruturados. O uso correto de caracteres especiais no HTML é importante para garantir que símbolos e acentuações sejam exibidos corretamente em diferentes plataformas, além de melhorar a legibilidade do conteúdo. A criação de tabelas, por sua vez, é uma técnica essencial para organizar e apresentar dados de maneira clara e ordenada, utilizando as tags apropriadas para estruturar linhas e colunas.
+# 📚 **Estudos HTML**
 
-Além disso, a inserção de imagens é um aspecto fundamental no desenvolvimento de páginas visuais, sendo realizada por meio da definição do caminho da imagem e uma descrição acessível. Os links permitem a navegação entre páginas do próprio site ou para sites externos, podendo ser personalizados para controlar a abertura de novos conteúdos em abas ou na mesma janela. Por fim, a criação de formulários é vital para possibilitar a interação dos usuários com a página, seja para enviar dados, preencher campos ou realizar escolhas, utilizando diferentes tipos de campos como caixas de texto, botões e seletores de opções.
+Este repositório contém meus estudos sobre **HTML**, explorando conceitos fundamentais para a criação de páginas web interativas e bem estruturadas.  
 
-Esses fundamentos do HTML são essenciais para o desenvolvimento web e servem como uma base sólida para a criação de páginas dinâmicas e bem estruturadas, garantindo uma experiência de navegação mais eficiente e acessível.
+---
+
+## 📝 **Tópicos Estudados**
+
+- **🔣 Caracteres Especiais**  
+  A importância de garantir que símbolos e acentuações sejam exibidos corretamente em diferentes plataformas, melhorando a legibilidade e acessibilidade do conteúdo.  
+
+- **📊 Tabelas**  
+  Técnicas para organizar e apresentar dados de maneira clara e ordenada, utilizando as tags apropriadas para estruturar linhas e colunas.
+
+- **🖼️ Imagens**  
+  Como inserir imagens em páginas web, definindo o caminho correto e adicionando descrições acessíveis para enriquecer a experiência visual.
+
+- **🔗 Links**  
+  Criação de links para navegação entre páginas do site ou para sites externos, incluindo personalizações para abrir conteúdos em abas ou na mesma janela.
+
+- **🖍️ Formulários**  
+  Métodos para criar interatividade, como envio de dados, preenchimento de campos e seleção de opções. Exploração de diferentes tipos de campos, como caixas de texto, botões e seletores.
+
+---
+
+## 🌟 **Objetivo**
+
+Registrar e organizar conceitos fundamentais do HTML para acompanhar meu progresso no aprendizado e ter uma base sólida para o desenvolvimento web.
+
+---
+
+Esse repositório serve como uma referência pessoal para revisar e aprimorar os conhecimentos em HTML. 🚀
